@@ -37,7 +37,9 @@ pod install
 ## Runing the project
 
 You'll need a app on [Dropbox](https://www.dropbox.com/developers) and also a access token that can be retrieved [here](https://dropbox.github.io/dropbox-api-v2-explorer/#files_list_folder)
+
 <img width="538" alt="Captura de Tela 2023-03-08 às 10 19 30" src="https://user-images.githubusercontent.com/15734369/223723837-75fc0e15-c8ae-48c1-a175-0841355d5b43.png">
+
 To run the project first create a copy of `.env.example` on the root folder, and replace the values for your own project, execute this command every time you replace a env:
 
 ```
