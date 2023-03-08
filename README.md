@@ -67,12 +67,13 @@ npx react-native start
 ```
 I used:
 ```
-
 npx react-native start —reset-cache
+```
 To make sure the token would be rebuilt;
 
 6- I already see my folders on Home Screen and can navigate through them:
-Captura de Tela 2023-03-08 às 19.40.14.png
+<img width="1399" alt="Captura de Tela 2023-03-08 às 19 35 28" src="https://user-images.githubusercontent.com/15734369/223869020-9b1adb9b-0471-4e0c-be4d-6828f923034c.png">
+
 
 ## License
 
